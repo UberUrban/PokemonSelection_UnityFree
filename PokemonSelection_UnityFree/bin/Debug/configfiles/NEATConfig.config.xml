@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <PopulationSize>50</PopulationSize>
+  <SpecieCount>5</SpecieCount>
+  <Activation>
+    <Scheme>FixedIters</Scheme>
+    <Iters>2</Iters>
+  </Activation>
+  <ComplexityRegulationStrategy>Absolute</ComplexityRegulationStrategy>
+  <ComplexityThreshold>50</ComplexityThreshold>
+  <Description>
+    A Pokemon battle evolution.
+    Imaginary pokemon are pitted against eachother in a simulated fight.
+  </Description>
+  
+  <TrainingType>1</TrainingType>
+  <TargetGeneration>2000</TargetGeneration>
+  <TargetFitness>13000</TargetFitness>
+
+</Config>

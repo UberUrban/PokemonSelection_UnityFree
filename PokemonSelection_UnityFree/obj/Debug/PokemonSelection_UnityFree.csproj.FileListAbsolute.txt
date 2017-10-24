@@ -1,0 +1,12 @@
+c:\users\simon\documents\visual studio 2015\Projects\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\PokemonSelection_UnityFree.exe.config
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\PokemonSelection_UnityFree.exe.config
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\PokemonSelection_UnityFree.exe
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\PokemonSelection_UnityFree.pdb
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\log4net.dll
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\SharpNeatDomains.dll
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\SharpNeatLib.dll
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\log4net.xml
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\bin\Debug\SharpNeatLib.xml
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\obj\Debug\PokemonSelection_UnityFree.exe
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\obj\Debug\PokemonSelection_UnityFree.pdb
+G:\Högskolesaker\Exjobb\Artifakt\PokemonSelection_UnityFree\PokemonSelection_UnityFree\obj\Debug\PokemonSelection_UnityFree.csprojResolveAssemblyReference.cache

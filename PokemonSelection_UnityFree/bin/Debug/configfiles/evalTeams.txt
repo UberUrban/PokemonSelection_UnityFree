@@ -1,0 +1,3 @@
+Accelgor;Lycanroc;Salamence;
+Dugtrio;Salazzle;Porygon-Z;
+Shiftry;Electivire;Starmie;
